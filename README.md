@@ -3,7 +3,6 @@
 
 ## Esse é meu repositório centralizador de scripts 💾
 - Criado com intuíto de centralizar de forma organizada e estruturada meus shell scripts. 
-<br>
 - Dentro de cada pasta encontrara um projeto com sua respectivas demanda e soluções. 
 
 <br>
