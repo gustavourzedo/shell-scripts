@@ -1,4 +1,4 @@
-# Shell script para iinstalar e configurar uma aplicação no apache.
+# Shell script para instalar e configurar uma aplicação no apache.
 
 ## Diretivas 📢
 
