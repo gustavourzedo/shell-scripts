@@ -7,3 +7,4 @@
 - Instalar unzip.
 - Buscar uma aplicação de modelo.
 - Copiar tudo para diretório padrão do apache.
+- Sem intereção, tudo via script.
